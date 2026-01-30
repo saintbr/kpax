@@ -1,0 +1,8 @@
+kpax/rust/target
+kpax/dotnet/obj/
+kpax/python/.idea/
+kpax/dotnet/bin/
+kpax/java/target/
+kpax/zig/.zig-cache/
+kpax/zig/zig-out/
+kpax/java/.idea/

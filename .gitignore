@@ -6,3 +6,7 @@ kpax/java/target/
 kpax/zig/.zig-cache/
 kpax/zig/zig-out/
 kpax/java/.idea/
+kpax/ui/react/node_modules/
+kpax/ui/vue/node_modules/
+kpax/ui/angular/node_modules/
+kpax/node/node_modules/
